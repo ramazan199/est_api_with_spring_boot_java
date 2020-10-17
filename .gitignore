@@ -19,6 +19,10 @@ target/
 *.iml
 *.ipr
 *.db
+Procfile
+mvnw
+mvnw.cmd
+
 
 ### NetBeans ###
 /nbproject/private/
